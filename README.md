@@ -1,4 +1,4 @@
-# Phi Chatbot
+# ChatbotV2
 
 Chatbot sederhana yang menggunakan Phi-3.5 untuk percakapan dan Pollinations AI untuk generate gambar.
 
@@ -41,6 +41,3 @@ Chatbot sederhana yang menggunakan Phi-3.5 untuk percakapan dan Pollinations AI 
    ```
 5. Buka browser dan akses `http://localhost:8000`
 
-## Lisensi
-
-MIT License 
