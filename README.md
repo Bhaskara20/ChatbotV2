@@ -20,7 +20,7 @@ Chatbot sederhana yang menggunakan Phi-3.5 untuk percakapan dan Pollinations AI 
 - Backend: Python Flask
 - AI: Microsoft Phi-3.5 dan Pollinations AI
 
-## Pengembangan Lokal
+## Instalasi Lokal
 
 1. Clone repository
 2. Install dependencies:
